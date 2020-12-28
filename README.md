@@ -4,7 +4,8 @@ Emerging data scientist, former teacher, and life long learner interested in usi
 > Using NLP to build a tool that aims to strengthening classrooms by empowering teachers to self analyze the patterns of questioning used in their classroom.  
 
 #### 📕 Currently Reading:
-> Professionally: *Practical Statistics for Data Scientists* 
+> Professionally: *Practical Statistics for Data Scientists*  
+
 > Personally: *What it Means When A Man Falls From The Sky* by Lesley Nneka Arimah
 
 #### 🔎 Currently Exploring: 
