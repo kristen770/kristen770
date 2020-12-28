@@ -1,16 +1,13 @@
-### Hi there 👋
+Emerging data scientist, former teacher, and life long learner interested in using data analysis, statistics and machine learning across a wide range of diciplines to gain insight, make visuals and provide recommendations.  
 
-<!--
-**kristen770/kristen770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👩‍💻 Currently working on:  
+> Using NLP to build a tool that aims to strengthening classrooms by empowering teachers to self analyze the patterns of questioning used in their classroom.  
 
-Here are some ideas to get you started:
+#### 📕 Currently Reading:
+> Professionally: *Practical Statistics for Data Scientists / Personally: *What it Means When A Man Falls From The Sky by Lesley Nneka Arimah
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💪Currently Learning: 
+> *The Pyhton Bible On Udemy 
+
+
+
