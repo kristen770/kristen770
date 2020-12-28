@@ -13,7 +13,7 @@ Emerging data scientist, former teacher, and life long learner interested in usi
 
 
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/kristendavis-27/) and read me on [Medium](https://medium.com/me/design)
+#### Connect with me on [LinkedIn](https://www.linkedin.com/in/kristendavis-27/) and read me on [Medium](https://medium.com/me/design)
 
 
 
