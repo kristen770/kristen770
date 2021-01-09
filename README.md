@@ -6,9 +6,9 @@ Emerging data scientist, former teacher, and life long learner interested in usi
 * Using NLP to build a tool that aims to strengthening classrooms by empowering teachers to self analyze the patterns of questioning used in their classroom.  
 
 #### 📕 Currently Reading:
-* Professionally: *Practical Statistics for Data Scientists*  
+* Professionally: *Cracking the Data Science Interview* by Maverick Lin  
 
-* Personally: *What it Means When A Man Falls From The Sky* by Lesley Nneka Arimah
+* Personally: *The Boy in the Field* by Margot Livesey
 
 #### 🔎 Currently Exploring: 
 * *The Pyhton Bible* On Udemy  
