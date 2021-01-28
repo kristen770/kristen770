@@ -6,7 +6,7 @@ Emerging data scientist, former teacher, and life long learner interested in usi
 * Using NLP to build a tool that aims to strengthening classrooms by empowering teachers to self analyze the patterns of questioning used in their classroom.  
 
 #### 📕 Currently Reading:
-* Professionally: *Cracking the Data Science Interview* by Maverick Lin  
+* Professionally: *Building a Career In Data Science Interview* by Emily Robinson and Jacqueline Nolis
 
 * Personally: *The Boy in the Field* by Margot Livesey
 
