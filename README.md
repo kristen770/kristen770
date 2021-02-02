@@ -3,7 +3,7 @@ Emerging data scientist, former teacher, and life long learner interested in usi
 ---
 
 #### 👩‍💻 Currently working on:  
-* Using NLP to build a tool that aims to strengthening classrooms by empowering teachers to self analyze the patterns of questioning used in their classroom.  
+* Using a Gaussian Mixture Model with text data clustering.  
 
 #### 📕 Currently Reading:
 * Professionally: *Building a Career In Data Science Interview* by Emily Robinson and Jacqueline Nolis
