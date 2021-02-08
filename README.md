@@ -8,10 +8,11 @@ Emerging data scientist, former teacher, and life long learner interested in usi
 #### 📕 Currently Reading:
 * Professionally: *Building a Career In Data Science Interview* by Emily Robinson and Jacqueline Nolis
 
-* Personally: *The Boy in the Field* by Margot Livesey
+* Personally: *No Sunscreen for the Dead* by Tim Dorsey
 
 #### 🔎 Currently Exploring: 
-* *The Pyhton Bible* On Udemy  
+* *The Complete Python Bootcamp Zero to Hero* On Udemy   
+* [Dino Dataset](https://www.kaggle.com/kumazaki98/dinosaur-list)
 
 ---
 
