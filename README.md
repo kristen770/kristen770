@@ -3,7 +3,8 @@ Emerging data scientist, former teacher, and life long learner interested in usi
 ---
 
 #### 👩‍💻 Currently working on:  
-* Using a Gaussian Mixture Model with text data clustering.  
+* Using a Gaussian Mixture Model with text data clustering.   
+* [Dino Dataset](https://www.kaggle.com/kumazaki98/dinosaur-list)
 
 #### 📕 Currently Reading:
 * Professionally: *Building a Career In Data Science Interview* by Emily Robinson and Jacqueline Nolis
@@ -12,7 +13,8 @@ Emerging data scientist, former teacher, and life long learner interested in usi
 
 #### 🔎 Currently Exploring: 
 * *The Complete Python Bootcamp Zero to Hero* On Udemy   
-* [Dino Dataset](https://www.kaggle.com/kumazaki98/dinosaur-list)
+* *Paleontology: Theropod Dinosaurs and the Origin of Birds* on Corsera  
+* *Bayesian Statistics: From Concept to Data Analysis* on Corsera 
 
 ---
 
