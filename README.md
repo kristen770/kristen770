@@ -8,7 +8,6 @@ Emerging data scientist, former teacher, and life long learner interested in usi
 
 #### 📕 Currently Reading:
 * Professionally: *Building a Career In Data Science Interview* by Emily Robinson and Jacqueline Nolis
-
 * Personally: *No Sunscreen for the Dead* by Tim Dorsey
 
 #### 🔎 Currently Exploring: 
