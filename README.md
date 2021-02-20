@@ -4,7 +4,7 @@ Data scientist and Machine Learning Engineer, former teacher, and life long lear
 
 #### 👩‍💻 Currently working on:  
 * Using a Gaussian Mixture Model with text data clustering.   
-* [Dino Dataset](https://www.kaggle.com/kumazaki98/dinosaur-list)
+* Apply an LDA Model to my Standards Analysis project
 
 #### 📕 Currently Reading:
 * Professionally: *Building a Career In Data Science Interview* by Emily Robinson and Jacqueline Nolis
