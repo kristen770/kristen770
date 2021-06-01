@@ -3,12 +3,11 @@ Data scientist and Machine Learning Engineer, former teacher, and life long lear
 ---
 
 #### 👩‍💻 Currently working on:  
-* Using a Gaussian Mixture Model with text data clustering.   
-* Apply an LDA Model to my Standards Analysis project
+* Building a Google Analytics API 
 
 #### 📕 Currently Reading:
 * Professionally: *Building a Career In Data Science Interview* by Emily Robinson and Jacqueline Nolis
-* Personally: *No Sunscreen for the Dead* by Tim Dorsey
+* Personally: *Witch Elm* by Tana French
 
 #### 🔎 Currently Studying: 
 * *The Complete Python Bootcamp Zero to Hero* On Udemy   
